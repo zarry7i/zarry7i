@@ -1,4 +1,6 @@
-- 👋 Hi, I’m <b>Zarrar Husain Khan</b> pursuing </b>IT Engineering Degree</b> from University of Mumbai.
+### Hello World and welcome to my GitHub page.
+
+- 👋 I’m <b>Zarrar Husain Khan</b> pursuing </b>IT Engineering Degree</b> from University of Mumbai.
 
 - 👀 I’m interested in web development, digital marketing and ethical hacking but still, wish to explore many fields.
 
