@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in web development, digital marketing and ethical hacking but still, wish to explore many fields.
 
-- 🌱 I’m currently learning Cyber Security and python. Beside that I'm also learning Java and also has basic knowledge of C++.
+- 🌱 I’m currently freelancing as a web developer.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
